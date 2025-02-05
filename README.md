@@ -5,3 +5,7 @@
 
 ### ch 06. ChatGPT 활용 - 텍스트 마이닝
  * 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch06/ch06_Texmining.ipynb)
+
+### ch 09. ChatGPT 활용 - 머신러닝 모델 만들기
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch09/ch09_01.ipynb)
+ * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch09/ch09_02_ML.ipynb)
