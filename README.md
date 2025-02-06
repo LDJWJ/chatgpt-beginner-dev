@@ -21,3 +21,7 @@
 
 ### ch 14. 챗봇 개발을 위한 파이썬 기본 - 프로그램 만들기
  * 실습 코드 1 - [Link](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch14)
+
+### ch 14. 챗봇 개발을 위한 파이썬 기본 - 프로그램 만들기
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch15/ch15_01_function.ipynb)
+ * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch15/ch15_02_class.ipynb)
