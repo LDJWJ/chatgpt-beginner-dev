@@ -54,3 +54,10 @@ WEB : https://ldjwj.github.io/chatgpt-beginner-dev/
 
 ### ch 24. ﻿﻿﻿﻿데이터 분석 기본 - API 이해 및 기본 실습
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch24/ch24_01_APIChatBot.ipynb)
+ * 
+
+### ch 25. ﻿﻿﻿﻿데이터 분석 기본 - 나의 AI 비서 생성하기
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch25/ch25_01_myChatBot.ipynb)
+ * 
+### ch 26. ﻿﻿﻿﻿챗봇 개발을 위한 실전 레벨업 - 웹 APP 구현해 보기
+ * 학습 자료 - [PDF 보기](https://ldjwj.github.io/chatgpt-beginner-dev/ch26/ch26_webApp.pdf)
