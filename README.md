@@ -70,3 +70,7 @@ WEB : https://ldjwj.github.io/chatgpt-beginner-dev/
 ### ch 28. ﻿﻿﻿﻿챗봇 개발을 위한 실전 레벨업 -  Streamlit을 활용을 위한 기본
  * 학습 자료 - [PDF 보기](https://ldjwj.github.io/chatgpt-beginner-dev/ch28/ch28_streamlit.pdf)
  * 자료로 폴더로 [이동](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch28)
+
+### ch 29. ﻿﻿﻿﻿챗봇 개발을 위한 실전 레벨업 -  LangChain 기본 및 실습 
+ * 학습 자료 - [PDF 보기](https://ldjwj.github.io/chatgpt-beginner-dev/ch29/ch29_LangChain_Basic.pdf)
+ * 자료로 폴더로 [이동](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch29)
