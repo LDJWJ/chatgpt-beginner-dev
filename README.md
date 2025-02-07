@@ -61,3 +61,4 @@ WEB : https://ldjwj.github.io/chatgpt-beginner-dev/
  * 
 ### ch 26. ﻿﻿﻿﻿챗봇 개발을 위한 실전 레벨업 - 웹 APP 구현해 보기
  * 학습 자료 - [PDF 보기](https://ldjwj.github.io/chatgpt-beginner-dev/ch26/ch26_webApp.pdf)
+ * 자료로 폴더로 [이동](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch26)
