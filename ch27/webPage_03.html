@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> HTML 실습 </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color : #f0f0f0;
+        }
+        h1 {
+            color: orange;
+            cursor: pointer; /* 커서를 포인터로 변경하여 클릭할 수 있도록 함 */
+        }
+
+        p {
+            color: #635;
+            cursor: pointer; /* 커서를 포인터로 변경하여 클릭할 수 있도록 함 */
+        }
+
+    </style>
+</head>
+<body>
+    <h1 id='title'> 안녕하세요! HTML!  </h1>
+    <p id='paragraph'> 이것은 HTML 실습 예제입니다. </p>
+
+    <script>
+        // 제목 클릭 시 색상 변경
+        document.getElementById('title').addEventListener('click', function() {
+            var title = document.getElementById('title');
+            title.style.color = getRandomColor();
+        });
+
+        // 문단 클릭 시 색상 변경
+        document.getElementById('paragraph').addEventListener('click', function() {
+            var paragraph = document.getElementById('paragraph');
+            paragraph.style.color = getRandomColor();
+        });
+
+        // 랜덤 색상 반환 함수
+        function getRandomColor() {
+            var letters = '0123456789ABCDEF';
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+    </script>
+</body>
+</html>
