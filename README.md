@@ -29,3 +29,20 @@
 ### ch 17. ﻿﻿﻿데이터 분석 기본 - 위치 정보 시각화
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch17/ch17_folium_01.ipynb)
  * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch17/ch17_folium_02.ipynb)
+
+### ch 18. ﻿﻿﻿﻿﻿﻿데이터 분석 기본 - 데이터 시각화
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch18/ch18_01.ipynb)
+ * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch18/ch18_02B.ipynb)
+
+### ch 19. ﻿﻿﻿﻿﻿﻿데이터 분석 기본 - 데이터 시각화
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_01.ipynb)
+ * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_02.ipynb)
+
+### ch 20. ﻿﻿﻿﻿데이터 분석 기본 - 실전 데이터 분석 with ChatGPT
+ * 실습 코드 1 - [Link](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch20)
+
+### ch 21. ﻿﻿﻿﻿데이터 분석 기본 - 실전 데이터 분석 with ChatGPT
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch21/ch21_01_DataAna.ipynb)
+
+### ch 22. ﻿﻿﻿﻿데이터 분석 기본 - 데이터 분석 기본 - 모델 최적화와 특징 선택
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch22/ch22_01_DataAna.ipynb)
