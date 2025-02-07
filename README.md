@@ -34,3 +34,7 @@
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch18/ch18_01.ipynb)
  * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch18/ch18_02B.ipynb)
 
+### ch 19. ﻿﻿﻿﻿﻿﻿데이터 분석 기본 - 데이터 시각화
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_01.ipynb)
+ * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_02.ipynb)
+
