@@ -44,5 +44,8 @@
 ### ch 21. ﻿﻿﻿﻿데이터 분석 기본 - 실전 데이터 분석 with ChatGPT
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch21/ch21_01_DataAna.ipynb)
 
-### ch 22. ﻿﻿﻿﻿데이터 분석 기본 - 데이터 분석 기본 - 모델 최적화와 특징 선택
+### ch 22. ﻿﻿﻿﻿데이터 분석 기본 - 머신러닝 모델 최적화와 특징 선택
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch22/ch22_01_DataAna.ipynb)
+
+### ch 23. ﻿﻿﻿﻿데이터 분석 기본 - 생성 AI 모델 이해
+ * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch23/ch23_01_GenAI.ipynb)
