@@ -38,3 +38,5 @@
  * 실습 코드 1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_01.ipynb)
  * 실습 코드 2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/chatgpt-beginner-dev/blob/main/ch19/ch19_pandas_02.ipynb)
 
+### ch 20. ﻿﻿﻿﻿데이터 분석 기본 - 실전 데이터 분석 with ChatGPT
+ * 실습 코드 1 - [Link](https://github.com/LDJWJ/chatgpt-beginner-dev/tree/main/ch20)
